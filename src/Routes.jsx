@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 import {
-    BrowserRouter as Router,
+    HashRouter as Router,
     Switch,
     Route,
   } from "react-router-dom";
@@ -9,12 +9,10 @@ import Detail from './pages/Detail';
 class Routes extends Component {
     render() {
         return (
-          <Router>
-              <Switch>
-                  <Route exact path="/" children={<Main />} />
-                  <Route path="/movie" children={<Detail/>} />
-              </Switch>
-          </Router>
+          <div>
+                <Route exact path="/" component={Main} />
+                <Route path="/movie" component={Detail} />
+          </div>
          );
     }
 }

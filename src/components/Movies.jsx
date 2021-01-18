@@ -22,19 +22,19 @@ function Movies(){
           reloadOnUpdate // default false
           static>
           <div className="carousel-cell">
-          <a href="/movie">
+          <a href="./movie">
             <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png" className="poster" /> <br/><br/> </a>
             <b>Ford vs Ferrari</b>
             <div> <RiStarFill/> 8.2 </div>
           </div>
           <div className="carousel-cell">
-          <a href="/movie">
+          <a href="./movie">
             <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png"/> <br/><br/> </a>
             <b>Ford vs Ferrari</b>
             <div> <RiStarFill/> 8.2 </div>
           </div>
           <div className="carousel-cell">
-          <a href="/movie">
+          <a href="./movie">
             <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Ford_v._Ferrari_%282019_film_poster%29.png"/> <br/><br/> </a>
             <b>Ford vs Ferrari</b>
             <div> <RiStarFill/> 8.2 </div>

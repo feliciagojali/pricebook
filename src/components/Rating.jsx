@@ -7,7 +7,7 @@ class Rating extends Component {
     render() {
         return (
           <div>
-          <a href="/">
+          <a href="/pricebook/#/">
           <BiArrowBack className="back"/> </a>
           <img src="https://www.whats-on-netflix.com/wp-content/uploads/2019/11/le-man-66-netflix-release-1.jpg" width="100%" className="detail-pic"/>
           <div className="rating">

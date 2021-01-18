@@ -1,3 +1,6 @@
+This project is already deployed and can be viewed in
+https://feliciagojali.github.io/pricebook/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

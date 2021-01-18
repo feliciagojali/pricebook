@@ -4,11 +4,12 @@ import './index.css';
 import Routes from './Routes';
 import reportWebVitals from './reportWebVitals';
 import 'bootstrap/dist/css/bootstrap.min.css';
+import    { HashRouter as Router }from 'react-router-dom';
 
 ReactDOM.render(
-  <React.StrictMode>
+  <Router>
     <Routes />
-  </React.StrictMode>,
+  </Router>,
   document.getElementById('root')
 );
 
