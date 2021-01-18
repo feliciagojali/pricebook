@@ -1,0 +1,111 @@
+
+
+.active{
+  width   : auto;
+  height  : auto;
+  padding-bottom: 2%;
+  position: relative;
+  z-index : 1;
+  font-weight: bold;
+
+}
+
+.active:before {
+  content : "";
+  position: absolute;
+  left    : 3;
+  bottom  : 0;
+  height  : 1px;
+  width   : 5vh;  /* or 100px */
+  border-bottom:3px solid red;
+}
+
+.pill {
+   border:1px solid lightgrey;
+   color:grey;
+   margin: 0 5% 0 5%;
+   font-style:bold;
+}
+
+.pill2{
+  border:0.3vw solid lightgrey;
+  color:black;
+  opacity: 0.8;
+
+}
+.cast {
+  border-radius: 50%;
+}
+
+.crew{
+  font-size: 2.5vw;
+}
+.add {
+  display: inline-block;
+  background-color: #E75954;
+  color:white;
+  border-radius: 2vw;
+  width : 12vw;
+  height: 12vw;
+  font-size: 7vw;
+  text-align: center;
+}
+.carousel-cell {
+  width: 50%;
+  height: auto;
+  text-align: center;
+  margin-right:20%;
+}
+
+
+/* cell number */
+.carousel-cell:before {
+  display: block;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+.detail-pic{
+  border-bottom-left-radius: 100px;
+  position:absolute;
+  top:0;
+  left: 0;
+  z-index: -1;
+}
+
+
+.poster  {
+  border-radius: 15px;
+  -webkit-box-shadow: 0 4px 4px -2px #000000;
+   -moz-box-shadow: 0 4px 4px -2px #000000;
+   box-shadow: 0 4px 4px -2px #000000;
+}
+.back {
+  position:relative;
+  top : 4vw;
+  left : 3vw;
+  font-size: 4vw;
+  color:black;
+}
+
+.rating {
+  position: relative;
+  border-top-left-radius: 150px;
+  border-bottom-left-radius: 150px;
+  padding : 2%;
+  top: 40vw;
+  margin-left: 10%;
+  background-color: white;
+  -webkit-box-shadow: 0 4px 4px -2px grey;
+   -moz-box-shadow: 0 4px 4px -2px grey;
+   box-shadow: 0 4px 4px -2px grey;
+}
+
+.score {
+  background-color: green;
+  display: inline-block;
+  padding: 1% 2.5%;
+  color : white;
+  border-radius:3px;
+  font-size: 3vw;
+}
