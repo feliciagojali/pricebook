@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/pricebook/static/css/main.8690ccc4.chunk.css",
-    "main.js": "/pricebook/static/js/main.42982e59.chunk.js",
-    "main.js.map": "/pricebook/static/js/main.42982e59.chunk.js.map",
+    "main.js": "/pricebook/static/js/main.be0afb77.chunk.js",
+    "main.js.map": "/pricebook/static/js/main.be0afb77.chunk.js.map",
     "runtime-main.js": "/pricebook/static/js/runtime-main.3520e5de.js",
     "runtime-main.js.map": "/pricebook/static/js/runtime-main.3520e5de.js.map",
     "static/css/2.ae9f1eb3.chunk.css": "/pricebook/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.5f81fb64.chunk.js": "/pricebook/static/js/2.5f81fb64.chunk.js",
-    "static/js/2.5f81fb64.chunk.js.map": "/pricebook/static/js/2.5f81fb64.chunk.js.map",
+    "static/js/2.4b56a79f.chunk.js": "/pricebook/static/js/2.4b56a79f.chunk.js",
+    "static/js/2.4b56a79f.chunk.js.map": "/pricebook/static/js/2.4b56a79f.chunk.js.map",
     "static/js/3.ea1319e1.chunk.js": "/pricebook/static/js/3.ea1319e1.chunk.js",
     "static/js/3.ea1319e1.chunk.js.map": "/pricebook/static/js/3.ea1319e1.chunk.js.map",
     "index.html": "/pricebook/index.html",
     "static/css/2.ae9f1eb3.chunk.css.map": "/pricebook/static/css/2.ae9f1eb3.chunk.css.map",
     "static/css/main.8690ccc4.chunk.css.map": "/pricebook/static/css/main.8690ccc4.chunk.css.map",
-    "static/js/2.5f81fb64.chunk.js.LICENSE.txt": "/pricebook/static/js/2.5f81fb64.chunk.js.LICENSE.txt"
+    "static/js/2.4b56a79f.chunk.js.LICENSE.txt": "/pricebook/static/js/2.4b56a79f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3520e5de.js",
     "static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.5f81fb64.chunk.js",
+    "static/js/2.4b56a79f.chunk.js",
     "static/css/main.8690ccc4.chunk.css",
-    "static/js/main.42982e59.chunk.js"
+    "static/js/main.be0afb77.chunk.js"
   ]
 }
