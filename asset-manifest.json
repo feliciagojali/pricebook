@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.8690ccc4.chunk.css",
-    "main.js": "/static/js/main.e9ad0c24.chunk.js",
-    "main.js.map": "/static/js/main.e9ad0c24.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.9c7ec3cc.js",
-    "runtime-main.js.map": "/static/js/runtime-main.9c7ec3cc.js.map",
-    "static/css/2.ae9f1eb3.chunk.css": "/static/css/2.ae9f1eb3.chunk.css",
-    "static/js/2.5f81fb64.chunk.js": "/static/js/2.5f81fb64.chunk.js",
-    "static/js/2.5f81fb64.chunk.js.map": "/static/js/2.5f81fb64.chunk.js.map",
-    "static/js/3.ea1319e1.chunk.js": "/static/js/3.ea1319e1.chunk.js",
-    "static/js/3.ea1319e1.chunk.js.map": "/static/js/3.ea1319e1.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.ae9f1eb3.chunk.css.map": "/static/css/2.ae9f1eb3.chunk.css.map",
-    "static/css/main.8690ccc4.chunk.css.map": "/static/css/main.8690ccc4.chunk.css.map",
-    "static/js/2.5f81fb64.chunk.js.LICENSE.txt": "/static/js/2.5f81fb64.chunk.js.LICENSE.txt"
+    "main.css": "/pricebook/static/css/main.8690ccc4.chunk.css",
+    "main.js": "/pricebook/static/js/main.880afae0.chunk.js",
+    "main.js.map": "/pricebook/static/js/main.880afae0.chunk.js.map",
+    "runtime-main.js": "/pricebook/static/js/runtime-main.3520e5de.js",
+    "runtime-main.js.map": "/pricebook/static/js/runtime-main.3520e5de.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/pricebook/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.5f81fb64.chunk.js": "/pricebook/static/js/2.5f81fb64.chunk.js",
+    "static/js/2.5f81fb64.chunk.js.map": "/pricebook/static/js/2.5f81fb64.chunk.js.map",
+    "static/js/3.ea1319e1.chunk.js": "/pricebook/static/js/3.ea1319e1.chunk.js",
+    "static/js/3.ea1319e1.chunk.js.map": "/pricebook/static/js/3.ea1319e1.chunk.js.map",
+    "index.html": "/pricebook/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/pricebook/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.8690ccc4.chunk.css.map": "/pricebook/static/css/main.8690ccc4.chunk.css.map",
+    "static/js/2.5f81fb64.chunk.js.LICENSE.txt": "/pricebook/static/js/2.5f81fb64.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9c7ec3cc.js",
+    "static/js/runtime-main.3520e5de.js",
     "static/css/2.ae9f1eb3.chunk.css",
     "static/js/2.5f81fb64.chunk.js",
     "static/css/main.8690ccc4.chunk.css",
-    "static/js/main.e9ad0c24.chunk.js"
+    "static/js/main.880afae0.chunk.js"
   ]
 }
